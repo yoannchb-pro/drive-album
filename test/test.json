@@ -1,0 +1,57 @@
+[
+    {
+        "id": "1e82I6XdsT6Sla4JI6Eg-cfqQFx8PoZbv",
+        "name": "ALBUM1",
+        "realType": "application/vnd.google-apps.folder",
+        "type": "folder",
+        "url": "https://drive.google.com/drive/folders/1e82I6XdsT6Sla4JI6Eg-cfqQFx8PoZbv",
+        "content": [
+            {
+                "id": "19mppIinV6H-5yEJrpI_IEV6kOaqcYXYV",
+                "name": "testimage.png",
+                "realType": "image/png",
+                "type": "image",
+                "url": "https://lh3.google.com/u/0/d/19mppIinV6H-5yEJrpI_IEV6kOaqcYXYV"
+            }
+        ]
+    },
+    {
+        "id": "1j1bM93BzEUFq9qnxkg83zCU7EagFmdpI",
+        "name": "ALBUM2",
+        "realType": "application/vnd.google-apps.folder",
+        "type": "folder",
+        "url": "https://drive.google.com/drive/folders/1j1bM93BzEUFq9qnxkg83zCU7EagFmdpI",
+        "content": [
+            {
+                "id": "1S48FjbYSI-xi9dKFtw_FnbgrvqONQgPA",
+                "name": "SUBALBUM",
+                "realType": "application/vnd.google-apps.folder",
+                "type": "folder",
+                "url": "https://drive.google.com/drive/folders/1S48FjbYSI-xi9dKFtw_FnbgrvqONQgPA",
+                "content": [
+                    {
+                        "id": "1FBxX1_QLx5HiA6S6oSjyVOIBO6HkhZhw",
+                        "name": "genuary3.png",
+                        "realType": "image/png",
+                        "type": "image",
+                        "url": "https://lh3.google.com/u/0/d/1FBxX1_QLx5HiA6S6oSjyVOIBO6HkhZhw"
+                    }
+                ]
+            },
+            {
+                "id": "1IKQwv-EirnhycOaRnmiPFbIO3JpzpVgh",
+                "name": "img_2-18_11-8-39.jpg",
+                "realType": "image/jpeg",
+                "type": "image",
+                "url": "https://lh3.google.com/u/0/d/1IKQwv-EirnhycOaRnmiPFbIO3JpzpVgh"
+            }
+        ]
+    },
+    {
+        "id": "18wLall8RXQpEbUn_tOsO_IAXbyCoVaLA",
+        "name": "testimage1.png",
+        "realType": "image/png",
+        "type": "image",
+        "url": "https://lh3.google.com/u/0/d/18wLall8RXQpEbUn_tOsO_IAXbyCoVaLA"
+    }
+]

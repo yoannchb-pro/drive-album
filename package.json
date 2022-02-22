@@ -1,0 +1,34 @@
+{
+  "name": "drive-album",
+  "version": "1.0.0",
+  "description": "Tranform a public google drive into an album api for your images",
+  "main": "drive-album.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoannchb-pro/drive-album.git"
+  },
+  "keywords": [
+    "drive",
+    "google",
+    "album",
+    "images",
+    "scrap",
+    "free",
+    "api"
+  ],
+  "author": "yoannchb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoannchb-pro/drive-album/issues"
+  },
+  "homepage": "https://github.com/yoannchb-pro/drive-album#readme",
+  "dependencies": {
+    "got": "^11.0.0"
+  }
+}
