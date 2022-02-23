@@ -21,7 +21,8 @@ async function GetGoogleDrive(url = "", browse){
             name: res[2],
             realType: res[3],
             type: type,
-            url: isFolder ? `https://drive.google.com/drive/folders/${res[1]}` : `https://lh3.google.com/u/0/d/${res[1]}`
+            url: isFolder ? `https://drive.google.com/drive/folders/${res[1]}` : 
+            `http://drive.google.com/uc?type=view&id=${res[1]}`
         })
     };
 

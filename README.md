@@ -1,6 +1,10 @@
-# Drive-album v1.0.0
+# Drive-album v1.0.1
 
 Transform a google drive folder into an api to stock your images and albums
+
+## Update
+
+- Fixed image url
 
 ## Installation ?
 

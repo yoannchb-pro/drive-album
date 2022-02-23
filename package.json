@@ -1,6 +1,6 @@
 {
   "name": "drive-album",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tranform a public google drive into an album api for your images",
   "main": "drive-album.js",
   "directories": {
